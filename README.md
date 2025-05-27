@@ -37,13 +37,13 @@ Here are some small projects made by me:
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pritam-bsk&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-bsk&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🧠 Quote I Live By
-> _“Discipline beats motivation.”_
-
+> _“Discipline beats motivation.”_</br>
+> _"push the limits."_
 ---
