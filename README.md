@@ -38,7 +38,7 @@ Here are some small projects made by me:
 ### 📊 GitHub Stats & Contribution Streak
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam-bsk&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=pritam-bsk&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-bsk&layout=compact&theme=tokyonight" />
 </div>
 
