@@ -22,6 +22,7 @@
 
 ### 📊 Project Highlight
 Here are some small projects made by me:
+- 🍄 [Super Mario like platform game](https://github.com/pritam-bsk/platformer_sfml)
 - 👨‍💻 [two player game space fighter](https://github.com/pritam-bsk/space_fighter)
 - 📖 [jee preparation tracker](https://github.com/pritam-bsk/tracker)
 - 🖌️ [virtual paint using hand gesture](https://github.com/pritam-bsk/virtual-paint)
