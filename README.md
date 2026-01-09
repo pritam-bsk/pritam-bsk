@@ -4,7 +4,8 @@
 ---
 
 ### 🚀 About Me
-- 💻 Passionate about **Computer Science**: exploring AI, system design, and web development  
+- 🌪️ Competitive programmer  
+- 💻 Passionate about **Computer Science**
 - 🧠 Love solving **Physics & Math problems**  
 - 🌍 Enjoy **traveling** and learning about new topics  
 - 🎯 Aiming for top-tier tech roles with strong self-learning & discipline 
